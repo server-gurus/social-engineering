@@ -1,5 +1,6 @@
 User-agent: *
 Allow: /
+Sitemap: https://servergurus.de/social-engineering/sitemap.xml
 
 # This package is intended to be deployable in a subdirectory.
 # If you publish it under a real domain, you can optionally add a sitemap.xml entry here.
